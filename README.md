@@ -141,8 +141,8 @@ This project is open-source and available under the MIT License.
 
 ## 👨‍💻 Author
 
-Armin Abdollahi
-Sarina Kasaiyan
+- Armin Abdollahi
+- Sarina Kasaiyan
 
 ---
 
