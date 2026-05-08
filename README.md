@@ -21,6 +21,12 @@ The system analyzes visual characteristics of poster designs including:
 
 The application provides an interactive web interface powered by **Streamlit**, allowing users to upload posters and instantly receive analytical insights.
 
+<p align="center">
+  <a href="images/poster-analysis-demo.png">
+    <img src="https://github.com/user-attachments/assets/785c059a-b083-4b50-8d8f-9ef292c45052" width="600">
+  </a>
+</p>
+
 ---
 
 ## 🚀 Features
