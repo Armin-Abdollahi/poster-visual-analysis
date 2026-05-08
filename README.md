@@ -153,4 +153,3 @@ This project is open-source and available under the MIT License.
 ---
 
 ⭐ If you find this project useful, consider giving it a star!
-```
